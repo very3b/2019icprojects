@@ -16,6 +16,7 @@
 
 *  cadence中观察到有如下六中BJT的layout结构，我将其分成两大类，一类直接CBE结构，一类有对称的C-B。如下图所示
 ![Alt text](NPN.png)
+Tips：The emitter length can be scaled to obtain the desired current rating with a minimum length equal to 0.52 um and a maximum length of 18 um.
 
 * 当我们探究工艺中具体用到的层时，可能需要了解下列Mask的含义与作用。
 ![Alt text](intro-mask.png)
