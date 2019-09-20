@@ -1,9 +1,9 @@
 # The key point about BJT
 ## The structure
-* 为了便于理解IC中BJT的实现与设计，可以从下图的简单截面图中理解BJT的NPN结构。
+* 为辅助理解IC中BJT的实现与设计，可以从简单截面图中理解BJT的NPN结构。
 ![Alt text](structure.png)
 
-* 我们用到的SiiGe工艺是用到213的六层金属工艺，具体的层介绍如下图：
+* 我们用到的SiGe工艺是“213”的六层金属工艺，具体的层介绍如下图：
 ![Alt text](213metallayer.png)
 
 *  每一层的层厚也需要注意，具体如下：
