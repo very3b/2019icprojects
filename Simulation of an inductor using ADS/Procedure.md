@@ -48,7 +48,7 @@
 
 [1][V. N. R. Vanukuru, "Highly efficient and symmetric stacked transformers for millimeter-wave ics," 2017 International conference on Microelectronic Devices, Circuits and Systems (ICMDCS), Vellore, 2017, pp. 1-4.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8211712)
 
-[2][L. Lin, W. Yin, J. Mao and K. Yang, "Performance Characterization of Circular Silicon Transformers," in IEEE Transactions on Magnetics, vol. 44, no. 12, pp. 4684-4688, Dec. 2008.](http://https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711309)
+[2][L. Lin, W. Yin, J. Mao and K. Yang, "Performance Characterization of Circular Silicon Transformers," in IEEE Transactions on Magnetics, vol. 44, no. 12, pp. 4684-4688, Dec. 2008.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711309)
 
 ### 4.在结果窗口插入Equation，得到提取的初级和次级线圈电感值、互感、Q值，以及MAG
 ![](transformer_results.png)
