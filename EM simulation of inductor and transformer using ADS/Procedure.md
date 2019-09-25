@@ -6,7 +6,7 @@
 ![](2Layout.png)
 
 ### 3.放置电感（两种方式），添加仿真端口
-####（1）直接从元件库选择
+###（1）直接从元件库选择
 ![](3Select_component.png)
 
 *基底介绍：点击基底设置，可以观察基底的各层构成
@@ -14,12 +14,14 @@
 ![](substrate.png)
 
 *点击3D视图，可以观察电感在基底上的位置结构，可见电感布局在MET1、VIA2和MET2层
+
 ![](3Dview.png)
 
-####（2）受元件库提供电感元件感值的限制，有时需手动建电感模型，再添加端口
+###（2）受元件库提供电感元件感值的限制，有时需手动建电感模型，再添加端口
 ![](inductor_model.png)
 
 *点击3D视图，可以观察建立的电感模型
+
 ![](3Dinductor.png)
 
 ### 4.点击仿真设置，设置Frequency plan, 点击仿真按钮进行仿真，仿真结束，点击Create EM Model and symbol
@@ -42,7 +44,9 @@
 ![](transformer_schematic.png)
 
 *参考文献
+
 [1][V. N. R. Vanukuru, "Highly efficient and symmetric stacked transformers for millimeter-wave ics," 2017 International conference on Microelectronic Devices, Circuits and Systems (ICMDCS), Vellore, 2017, pp. 1-4.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8211712)
+
 [2][L. Lin, W. Yin, J. Mao and K. Yang, "Performance Characterization of Circular Silicon Transformers," in IEEE Transactions on Magnetics, vol. 44, no. 12, pp. 4684-4688, Dec. 2008.](http://https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4711309)
 
 ### 4.在结果窗口插入Equation，得到提取的初级和次级线圈电感值、互感、Q值，以及MAG
