@@ -16,6 +16,9 @@
 
 ## 4. Add Instance from Cadence
 现在插入我们刚刚链接过来的电路，按如下图所示即可，记得要插入NETLIST INCLUDE！并点击对里面的文件进行补充修改，看图：
+![](SelectDesign.png)
+注意：这个SelectDesign往往不是自动弹出，你的在右下角任务栏里点击出这个界面。
+
 ![](addInstance.png)
 
 ![](Netlistinclude.png)
