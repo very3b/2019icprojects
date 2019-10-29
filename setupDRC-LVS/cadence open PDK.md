@@ -12,7 +12,7 @@
 
 
 ＃ PDK初始化
- 1.右键Open the terminal--> 输入指令"cd /app/proj/++yourusername++/8xp" 回车----> "csh cshrc_8xp" ------> "virtuoso &"
+ 1.右键Open the terminal--> 输入指令"cd /app/proj/++yourusername++/8xp" 回车----> "source cshrc_8xp" ------> "virtuoso &"
 
 
 # Step2.cadence 库管理
