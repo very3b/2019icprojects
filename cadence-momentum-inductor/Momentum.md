@@ -18,6 +18,12 @@
 “Inductor and Transformer(EM Simulation)momentum by Wanli Zhan”
 <https://github.com/very3b/2019icprojects/blob/master/Simulation%20of%20an%20inductor%20using%20ADS/Procedure.md>
 
+首先需要在Setup中选定衬底文件，选择的文件和位置如下图所示：
+
+![Alt text](setupSubFile.png)
+
+接下来设置扫描频段以及设置端口，可自动生成。
+
 ![Alt text](simulation.png)
 
 
